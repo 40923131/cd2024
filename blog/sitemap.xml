@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./</loc>
-<lastmod>2024-03-22T08:14:10-00:00</lastmod>
+<lastmod>2024-03-22T08:21:52-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./archives.html</loc>
-<lastmod>2024-03-22T08:14:10-00:00</lastmod>
+<lastmod>2024-03-22T08:21:52-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tags.html</loc>
-<lastmod>2024-03-22T08:14:10-00:00</lastmod>
+<lastmod>2024-03-22T08:21:52-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./categories.html</loc>
-<lastmod>2024-03-22T08:14:10-00:00</lastmod>
+<lastmod>2024-03-22T08:21:52-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -46,6 +46,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>./2024-Spring-w4-blog-tutorial.html</loc>
+<lastmod>2024-03-22T08:21:13+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>./2024-Spring-w1-blog-tutorial.html</loc>
 <lastmod>2024-03-01T09:56:41+08:00</lastmod>
 <changefreq>monthly</changefreq>
@@ -60,6 +67,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>./category/w4.html</loc>
+<lastmod>2024-03-22T08:21:13+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>./category/w5.html</loc>
 <lastmod>2024-03-22T08:12:40+08:06</lastmod>
 <changefreq>daily</changefreq>
@@ -68,14 +82,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./tag/wang-zhi-bian-xie.html</loc>
-<lastmod>2024-03-22T08:12:40+08:06</lastmod>
+<lastmod>2024-03-22T08:21:13+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./author/40923131.html</loc>
-<lastmod>2024-03-22T08:12:40+08:06</lastmod>
+<lastmod>2024-03-22T08:21:13+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
