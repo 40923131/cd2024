@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-04-12T06:53:42+08:00</updated><entry><title>每週網誌</title><link href="./2024-Spring-w7-blog-tutorial.html" rel="alternate"></link><published>2024-04-04T00:00:00+08:00</published><updated>2024-04-11T02:33:04+08:00</updated><author><name>40923131</name></author><id>tag:None,2024-04-04:./2024-Spring-w7-blog-tutorial.html</id><summary type="html">&lt;p&gt;紀錄本學期的每週進度&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-04-12T07:02:24+08:00</updated><entry><title>第七週日誌</title><link href="./2024-Spring-w7-blog-tutorial.html" rel="alternate"></link><published>2024-04-04T00:00:00+08:00</published><updated>2024-04-12T07:02:15+08:00</updated><author><name>40923131</name></author><id>tag:None,2024-04-04:./2024-Spring-w7-blog-tutorial.html</id><summary type="html">&lt;p&gt;紀錄本學期的每週進度&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;紀錄本學期的每週進度&lt;/p&gt;
 
 
 &lt;h1&gt;W7&lt;/h1&gt;
-&lt;p&gt;清明連假沒有上課&lt;/p&gt;</content><category term="w7"></category><category term="網誌編寫"></category></entry><entry><title>每週網誌</title><link href="./2024-Spring-w6-blog-tutorial.html" rel="alternate"></link><published>2024-03-29T00:00:00+08:00</published><updated>2024-04-11T02:30:46+08:00</updated><author><name>40923131</name></author><id>tag:None,2024-03-29:./2024-Spring-w6-blog-tutorial.html</id><summary type="html">&lt;p&gt;紀錄本學期的每週進度&lt;/p&gt;
+&lt;p&gt;清明連假沒有上課&lt;/p&gt;</content><category term="w7"></category><category term="網誌編寫"></category></entry><entry><title>第六週日誌</title><link href="./2024-Spring-w6-blog-tutorial.html" rel="alternate"></link><published>2024-03-29T00:00:00+08:00</published><updated>2024-04-12T07:02:08+08:00</updated><author><name>40923131</name></author><id>tag:None,2024-03-29:./2024-Spring-w6-blog-tutorial.html</id><summary type="html">&lt;p&gt;紀錄本學期的每週進度&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;紀錄本學期的每週進度&lt;/p&gt;
 
 
-&lt;h1&gt;W6&lt;/h1&gt;</content><category term="w6"></category><category term="網誌編寫"></category></entry><entry><title>每週網誌</title><link href="./2024-Spring-w5-blog-tutorial.html" rel="alternate"></link><published>2024-03-22T00:00:00+08:00</published><updated>2024-04-11T02:29:57+08:00</updated><author><name>40923131</name></author><id>tag:None,2024-03-22:./2024-Spring-w5-blog-tutorial.html</id><summary type="html">&lt;p&gt;紀錄本學期的每週進度&lt;/p&gt;
+&lt;h1&gt;W6&lt;/h1&gt;</content><category term="w6"></category><category term="網誌編寫"></category></entry><entry><title>第五週日誌</title><link href="./2024-Spring-w5-blog-tutorial.html" rel="alternate"></link><published>2024-03-22T00:00:00+08:00</published><updated>2024-04-12T07:01:58+08:00</updated><author><name>40923131</name></author><id>tag:None,2024-03-22:./2024-Spring-w5-blog-tutorial.html</id><summary type="html">&lt;p&gt;紀錄本學期的每週進度&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;紀錄本學期的每週進度&lt;/p&gt;
 
 
 &lt;h1&gt;W5&lt;/h1&gt;
 &lt;p&gt;解決了上週無法git push的問題,並將影片連接貼至網站.&lt;/p&gt;
 &lt;p&gt;解決方法: 因為最開始commit了附有影片的內容,導致後面所有提交都無法成功並堆積在近端. 
-後來使用git reset HEAD~1把之前不需要的提交都刪除&lt;/p&gt;</content><category term="w5"></category><category term="網誌編寫"></category></entry><entry><title>每週網誌</title><link href="./2024-Spring-w4-blog-tutorial.html" rel="alternate"></link><published>2024-03-15T00:00:00+08:00</published><updated>2024-04-11T02:29:05+08:00</updated><author><name>40923131</name></author><id>tag:None,2024-03-15:./2024-Spring-w4-blog-tutorial.html</id><summary type="html">&lt;p&gt;紀錄本學期的每週進度&lt;/p&gt;
+後來使用git reset HEAD~1把之前不需要的提交都刪除&lt;/p&gt;</content><category term="w5"></category><category term="網誌編寫"></category></entry><entry><title>第四週日誌</title><link href="./2024-Spring-w4-blog-tutorial.html" rel="alternate"></link><published>2024-03-15T00:00:00+08:00</published><updated>2024-04-12T07:01:50+08:00</updated><author><name>40923131</name></author><id>tag:None,2024-03-15:./2024-Spring-w4-blog-tutorial.html</id><summary type="html">&lt;p&gt;紀錄本學期的每週進度&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;紀錄本學期的每週進度&lt;/p&gt;
 
 
 &lt;h1&gt;W4&lt;/h1&gt;
 &lt;p&gt;上傳本週新增影片字幕的任務,但目前無法成功git push.&lt;/p&gt;
 &lt;p&gt;問題點: 不能將影片直接放在download下,會因影片檔案太大導致無法上傳
-解決方法:將影片先上傳至YouTube再將連結放到網站&lt;/p&gt;</content><category term="w4"></category><category term="網誌編寫"></category></entry><entry><title>每週網誌</title><link href="./2024-Spring-w3-blog-tutorial.html" rel="alternate"></link><published>2024-03-08T00:00:00+08:00</published><updated>2024-04-11T02:28:33+08:00</updated><author><name>40923131</name></author><id>tag:None,2024-03-08:./2024-Spring-w3-blog-tutorial.html</id><summary type="html">&lt;p&gt;紀錄本學期的每週進度&lt;/p&gt;
+解決方法:將影片先上傳至YouTube再將連結放到網站&lt;/p&gt;</content><category term="w4"></category><category term="網誌編寫"></category></entry><entry><title>第三週日誌</title><link href="./2024-Spring-w3-blog-tutorial.html" rel="alternate"></link><published>2024-03-08T00:00:00+08:00</published><updated>2024-04-12T07:01:42+08:00</updated><author><name>40923131</name></author><id>tag:None,2024-03-08:./2024-Spring-w3-blog-tutorial.html</id><summary type="html">&lt;p&gt;紀錄本學期的每週進度&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;紀錄本學期的每週進度&lt;/p&gt;
 
 
 &lt;h1&gt;W3&lt;/h1&gt;
-&lt;p&gt;將個人倉儲納入分組倉儲成為子模組&lt;/p&gt;</content><category term="w3"></category><category term="網誌編寫"></category></entry><entry><title>40913131_W2</title><link href="./2024-Spring-w2-blog-tutorial.html" rel="alternate"></link><published>2024-03-01T00:00:00+08:00</published><updated>2024-04-11T02:27:18+08:00</updated><author><name>40923131</name></author><id>tag:None,2024-03-01:./2024-Spring-w2-blog-tutorial.html</id><summary type="html">&lt;p&gt;紀錄本學期的每週進度&lt;/p&gt;
+&lt;p&gt;將個人倉儲納入分組倉儲成為子模組&lt;/p&gt;</content><category term="w3"></category><category term="網誌編寫"></category></entry><entry><title>第二週日誌</title><link href="./2024-Spring-w2-blog-tutorial.html" rel="alternate"></link><published>2024-03-01T00:00:00+08:00</published><updated>2024-04-12T07:02:24+08:00</updated><author><name>40923131</name></author><id>tag:None,2024-03-01:./2024-Spring-w2-blog-tutorial.html</id><summary type="html">&lt;p&gt;紀錄本學期的每週進度&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;紀錄本學期的每週進度&lt;/p&gt;
 
 
 &lt;h1&gt;W2&lt;/h1&gt;
-&lt;p&gt;新建個人倉儲&lt;/p&gt;</content><category term="w2"></category><category term="網誌編寫"></category></entry><entry><title>每週網誌</title><link href="./2024-Spring-w1-blog-tutorial.html" rel="alternate"></link><published>2024-02-23T00:00:00+08:00</published><updated>2024-04-12T06:52:47+08:00</updated><author><name>40923131</name></author><id>tag:None,2024-02-23:./2024-Spring-w1-blog-tutorial.html</id><summary type="html">&lt;p&gt;紀錄本學期的每週進度&lt;/p&gt;
+&lt;p&gt;新建個人倉儲&lt;/p&gt;</content><category term="w2"></category><category term="網誌編寫"></category></entry><entry><title>第一週日誌</title><link href="./2024-Spring-w1-blog-tutorial.html" rel="alternate"></link><published>2024-02-23T00:00:00+08:00</published><updated>2024-04-12T07:01:19+08:00</updated><author><name>40923131</name></author><id>tag:None,2024-02-23:./2024-Spring-w1-blog-tutorial.html</id><summary type="html">&lt;p&gt;紀錄本學期的每週進度&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;紀錄本學期的每週進度&lt;/p&gt;
 
 
