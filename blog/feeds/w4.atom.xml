@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統 - w4</title><link href="./" rel="alternate"></link><link href="./feeds/w4.atom.xml" rel="self"></link><id>./</id><updated>2024-03-22T08:38:03+08:00</updated><entry><title>每週網誌</title><link href="./2024-Spring-w4-blog-tutorial.html" rel="alternate"></link><published>2024-03-15T00:00:00+08:00</published><updated>2024-03-22T08:38:03+08:00</updated><author><name>40923131</name></author><id>tag:None,2024-03-15:./2024-Spring-w4-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統 - w4</title><link href="./" rel="alternate"></link><link href="./feeds/w4.atom.xml" rel="self"></link><id>./</id><updated>2024-04-11T02:29:05+08:00</updated><entry><title>每週網誌</title><link href="./2024-Spring-w4-blog-tutorial.html" rel="alternate"></link><published>2024-03-15T00:00:00+08:00</published><updated>2024-04-11T02:29:05+08:00</updated><author><name>40923131</name></author><id>tag:None,2024-03-15:./2024-Spring-w4-blog-tutorial.html</id><summary type="html">&lt;p&gt;紀錄本學期的每週進度&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;紀錄本學期的每週進度&lt;/p&gt;
 
 
-&lt;h1&gt;每週網誌&lt;/h1&gt;
-&lt;p&gt;上傳本週新增影片字幕的任務
-但目前無法成功git push
-問題點: 不能將影片直接放在download下,會因影片檔案太大導致無法上傳
+&lt;h1&gt;W4&lt;/h1&gt;
+&lt;p&gt;上傳本週新增影片字幕的任務,但目前無法成功git push.&lt;/p&gt;
+&lt;p&gt;問題點: 不能將影片直接放在download下,會因影片檔案太大導致無法上傳
 解決方法:將影片先上傳至YouTube再將連結放到網站&lt;/p&gt;</content><category term="w4"></category><category term="網誌編寫"></category></entry></feed>
