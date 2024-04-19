@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-04-19T07:27:38+08:00</updated><entry><title>第七週日誌</title><link href="./2024-Spring-w9-blog-tutorial.html" rel="alternate"></link><published>2024-04-19T00:00:00+08:00</published><updated>2024-04-19T07:27:38+08:00</updated><author><name>40923131</name></author><id>tag:None,2024-04-19:./2024-Spring-w9-blog-tutorial.html</id><summary type="html">&lt;p&gt;紀錄本學期的每週進度&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-04-19T07:33:26+08:00</updated><entry><title>第七週日誌</title><link href="./2024-Spring-w9-blog-tutorial.html" rel="alternate"></link><published>2024-04-19T00:00:00+08:00</published><updated>2024-04-19T07:33:26+08:00</updated><author><name>40923131</name></author><id>tag:None,2024-04-19:./2024-Spring-w9-blog-tutorial.html</id><summary type="html">&lt;p&gt;紀錄本學期的每週進度&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;紀錄本學期的每週進度&lt;/p&gt;
 
 
@@ -38,15 +38,15 @@ Odoo 原型設計階段的優缺點
 直觀的產品和 BOM 創建: Odoo 提供簡單易用的界面，可以輕鬆创建产品和 BOM，并进行管理。
 BOM 與產品整合完善: BOM 和產品項目之間的整合非常緊密，修改 BOM 會直接影響產品，並自動更新相關信息。
 版本控制功能: ECO 能夠有效追蹤產品和 BOM 的版本变更，方便查阅历史修改记录。
-缺點:
-文件管理功能不足: 許多項目類型無法直接上傳文件，需要依靠 ECO 來變通實現，這在管理 CAD 文件等方面並不方便。
-操作順序問題: Odoo V14 取消了 "Route" 功能，導致 BOM 中操作順序混乱，需要手動調整或依赖操作员的經驗。
-產品與工具的區分不明確: Odoo 將模具视为产品，但无法将其与设备关联，導致在模具開發和維護方面存在信息斷層。
-數據分析功能有限: 數據分析主要集中在生产订单的完成时间，缺乏对质量控制等方面的數據分析和可视化展示。
-Odoo 適合哪些公司使用 PLM 和 MES 功能?
-小型企業： 規模較小，對 PLM 和 MES 的需求相對簡單的公司。
-以組裝或配送为主的企業： 可以充分利用 Odoo 的 ERP 功能和其與 PLM、MES 的整合。
-總結來說，Odoo 的 PLM 和 MES 功能具有一定的可用性，但仍有改進空間。 对于产品和生产流程相对简单的公司来说，Odoo 是一个不错的选择，但对于需要更深入的开发和数据分析功能的公司，可能需要考虑其他更专业的 PLM 和 MES 解决方案。&lt;/p&gt;</content><category term="w9"></category><category term="網誌編寫"></category></entry><entry><title>第七週日誌</title><link href="./2024-Spring-w7-blog-tutorial.html" rel="alternate"></link><published>2024-04-04T00:00:00+08:00</published><updated>2024-04-19T06:59:44+08:00</updated><author><name>40923131</name></author><id>tag:None,2024-04-04:./2024-Spring-w7-blog-tutorial.html</id><summary type="html">&lt;p&gt;紀錄本學期的每週進度&lt;/p&gt;
+缺點：
+文件管理功能不足：許多專案類型無法直接上傳文件，需要依賴ECO來變通實現，這在管理CAD文件等方面並不方便。
+操作順序問題：Odoo V14 取消了「路線」功能，導致 BOM 中操作順序混亂，需要手動調整或依賴操作員的經驗。
+產品與工具的差異不明確：Odoo 將模具視為產品，但無法將其與設備關聯，導致在模具開發和維護方面存在資訊斷層。
+數據分析功能有限：數據分析主要集中在生產訂單的完成時間，缺乏針對品質控制等方面的數據分析和視覺化展示。
+Odoo適合哪些公司使用PLM和MES功能？
+小型企業：規模縮小，對PLM和MES的需求相對簡單的公司。
+以組成或主要的企業：可以充分利用Odoo的ERP功能及其與PLM、MES的整合。
+總結來說，Odoo 的 PLM 和 MES 功能具有一定的可用性，但流程增加了改進空間。功能齊全的公司，可能需要考慮其他更專業的PLM 和MES 解決方案。&lt;/p&gt;</content><category term="w9"></category><category term="網誌編寫"></category></entry><entry><title>第七週日誌</title><link href="./2024-Spring-w7-blog-tutorial.html" rel="alternate"></link><published>2024-04-04T00:00:00+08:00</published><updated>2024-04-19T06:59:44+08:00</updated><author><name>40923131</name></author><id>tag:None,2024-04-04:./2024-Spring-w7-blog-tutorial.html</id><summary type="html">&lt;p&gt;紀錄本學期的每週進度&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;紀錄本學期的每週進度&lt;/p&gt;
 
 
