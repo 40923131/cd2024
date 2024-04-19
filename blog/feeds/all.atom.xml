@@ -1,10 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-04-12T07:02:24+08:00</updated><entry><title>第七週日誌</title><link href="./2024-Spring-w7-blog-tutorial.html" rel="alternate"></link><published>2024-04-04T00:00:00+08:00</published><updated>2024-04-12T07:02:15+08:00</updated><author><name>40923131</name></author><id>tag:None,2024-04-04:./2024-Spring-w7-blog-tutorial.html</id><summary type="html">&lt;p&gt;紀錄本學期的每週進度&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-04-19T07:27:38+08:00</updated><entry><title>第七週日誌</title><link href="./2024-Spring-w9-blog-tutorial.html" rel="alternate"></link><published>2024-04-19T00:00:00+08:00</published><updated>2024-04-19T07:27:38+08:00</updated><author><name>40923131</name></author><id>tag:None,2024-04-19:./2024-Spring-w9-blog-tutorial.html</id><summary type="html">&lt;p&gt;紀錄本學期的每週進度&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;紀錄本學期的每週進度&lt;/p&gt;
+
+
+&lt;h1&gt;W9&lt;/h1&gt;
+&lt;p&gt;使用課程提供的goodle AI studio翻譯論文中的內容&lt;/p&gt;
+&lt;p&gt;我分配到的內容是41~50頁，以下是我對AI的提問及AI對我的回答及重點整理&lt;/p&gt;
+&lt;p&gt;閱讀以上文章並幫我完整翻譯41頁到50頁的內容及整理出文章重點&lt;/p&gt;
+&lt;p&gt;第 41~50 頁完整翻譯與重點整理：
+5.4. Development（開發階段）
+現在公司的基本結構已經在軟體中建立，可以開始模擬過程了。首先，重點關注 Odoo 中新產品的開發方面（圖 9），特別是，由於這是公司創建的第一個產品，因此評估 Odoo 在組織原型設計過程中的可能用途。這包括從構思到設計和原型生產的路徑。然後，一旦產品作為原型達到可接受的結果，將進行與生產過程開發相關的工作。一旦完成正式的生產運行，產品開發即被視為成功。
+5.4.1. Idea - design - product prototype（構思 - 設計 - 產品原型）
+如第 4 章所述，產品的構思已經建立，並且已經進行了初步設計特徵和基本產品研究。這代表了 Odoo 軟體在現實世界中的實際實現，因為儘管 Odoo 擁有良好的項目管理和溝通應用程序，但這些應用程序與庫存和製造應用程序是外部的，更重要的是，與工程設計 CAD 軟件沒有任何集成。在此模擬中，該想法已被付諸紙面，並使用 Solidworks 軟體轉換為 CAD 設計，從而在工程師計算機中本地生成 CAD 文件。
+圖 36 關於產品開發的分段圖
+在這個時候，可以正式使用 Odoo 軟體了。第一步是了解就產品項目而言生產的主題是什麼。有兩種方法可以做到這一點：
+第一種是將原型視為最終產品的早期版本，即在 Odoo 中創建的原型項目將與最終產品項目相同，並且在開發過程中進行修訂。如果原型是通過與最終生產中使用的相同方法實現的，則建議這樣做。這種方法的一個例子是，如果產品足夠簡單，可以將產品和生產方面的開發一起進行。
+第二種是將原型視為與最終產品分開的項目 - 這是本次模擬中採用的路徑。做出此決定的主要原因是我們的原型生產方式與最終生產方式不同，因為原型使用了 3D 打印。
+從頭開始，創建了一個名為 PROTO Alpha Case 的產品項目（圖 37）（Alpha Case 是產品的名稱）。從現在開始，我們將原型產品稱為“原型項目”。正如我們所看到的，這允許對原型項目進行很好的表示。由於它是一個原型，因此它不會被標記為可以出售或購買的東西，並且銷售價格將設置為 0 美元，因為它並不重要。這個原型項目將用於連接其開發的不同方面，但目前它被擱置一旁。
+圖 37 原型產品項目的圖片
+正如我們在第 3 章中之前所確立的，該產品將由 3 個零件組成：Part A、Part B 和 Part C。這些需要製作原型並創建為產品，以便可以將它們添加到 PROTO Alpha Case 的物料清單中。最後，決定使用特定的塑料長絲（見第 4.1.1 節）進行 PROTO Part A 和 PROTO Part B 和 C 的 3D 打印，並且這些也需要添加為產品（圖 38）。
+圖 38 原型產品類項目的概述
+在這個時候，Alpha Case 原型設計的相關產品項目已經完成，這使得創建其相關 BOM 成為可能。它們有 3 個，它們遵循（圖 39）中的結構：
+圖 39 原型設計的 BOM 圖
+值得一提的是，Odoo 在項目中使用了套件選項（圖 40）來推斷該產品是另一個產品的組件。這非常有趣，因為它會自動在產品項目之間創建依賴關係以進行生產。
+圖 40 原型產品 BOM（Part-A）的圖片
+正如讀者可以看到的（圖 41），在製作 BOM 時，可以簡單地創建製造過程所需的特定操作項目並指定其工作中心。Odoo 中關於 MES 的最佳功能之一是能夠根據默認持續時間跟踪操作時間。這可以根據跟踪時間動態更改或手動設置。我們也可以在操作項目中添加操作說明文件。即使它僅限於 PDF 文本或指向 Google 幻燈片文件的鏈接，這也是 Odoo 為直接連接到項目的文件管理提供的少數機會之一。
+圖 41 Odoo 呈現的操作項目的圖片（BOM Part-A）
+圖 42 為原型設計創建的 BOM 概述
+說到這種缺乏上傳機會的情況，我們可以注意到，在製作產品項目時，無法將有關產品的文件直接上傳到該項目。在我們的例子中，我們有關於我們正在製作原型的零件的 CAD 文件，無法以任何方式上傳這些文件將是 PLM 方面的徹底失敗。謝天謝地，有一個解決方法。如第 5.1.3.5 節所述，ECO 是一個鏈接到產品項目或 BOM 的項目，並允許將上傳的文件附加到它。這是一個小的解決方法，但基本上意味著如果我們想以任何有意義的方式將我們的 CAD 文件上傳到項目中，我們需要發出 ECO，即使沒有進行任何“更改”。
+圖 43 ECO 示例
+只能假設這是 Odoo 團隊在其 ERP 基礎中實施 PLM 策略的一部分。這是合理的，但它仍然是這個軟件界面中為數不多的不那麼簡單的方面之一。這是一個非常有價值的功能，但它有點隱藏。文檔圖標僅在創建和保存 ECO 後才會出現在右上角（圖 43）。
+圖 44 附加到 ECO 的文件的概述
+由於 Odoo 和 CAD 軟件之間沒有直接集成，因此上傳文件不會對產品元數據造成任何自動更改。從 PLM 的角度來看，這並不理想，但它仍然是一個實現良好的功能。通過允許產品項目不僅直接鏈接到一個現有的 ECO，而且鏈接到應用於該項目
+重點整理:
+Odoo 原型設計階段的優缺點
+優點:
+直觀的產品和 BOM 創建: Odoo 提供簡單易用的界面，可以輕鬆创建产品和 BOM，并进行管理。
+BOM 與產品整合完善: BOM 和產品項目之間的整合非常緊密，修改 BOM 會直接影響產品，並自動更新相關信息。
+版本控制功能: ECO 能夠有效追蹤產品和 BOM 的版本变更，方便查阅历史修改记录。
+缺點:
+文件管理功能不足: 許多項目類型無法直接上傳文件，需要依靠 ECO 來變通實現，這在管理 CAD 文件等方面並不方便。
+操作順序問題: Odoo V14 取消了 "Route" 功能，導致 BOM 中操作順序混乱，需要手動調整或依赖操作员的經驗。
+產品與工具的區分不明確: Odoo 將模具视为产品，但无法将其与设备关联，導致在模具開發和維護方面存在信息斷層。
+數據分析功能有限: 數據分析主要集中在生产订单的完成时间，缺乏对质量控制等方面的數據分析和可视化展示。
+Odoo 適合哪些公司使用 PLM 和 MES 功能?
+小型企業： 規模較小，對 PLM 和 MES 的需求相對簡單的公司。
+以組裝或配送为主的企業： 可以充分利用 Odoo 的 ERP 功能和其與 PLM、MES 的整合。
+總結來說，Odoo 的 PLM 和 MES 功能具有一定的可用性，但仍有改進空間。 对于产品和生产流程相对简单的公司来说，Odoo 是一个不错的选择，但对于需要更深入的开发和数据分析功能的公司，可能需要考虑其他更专业的 PLM 和 MES 解决方案。&lt;/p&gt;</content><category term="w9"></category><category term="網誌編寫"></category></entry><entry><title>第七週日誌</title><link href="./2024-Spring-w7-blog-tutorial.html" rel="alternate"></link><published>2024-04-04T00:00:00+08:00</published><updated>2024-04-19T06:59:44+08:00</updated><author><name>40923131</name></author><id>tag:None,2024-04-04:./2024-Spring-w7-blog-tutorial.html</id><summary type="html">&lt;p&gt;紀錄本學期的每週進度&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;紀錄本學期的每週進度&lt;/p&gt;
+
+
+&lt;h1&gt;W8&lt;/h1&gt;</content><category term="w7"></category><category term="網誌編寫"></category></entry><entry><title>第七週日誌</title><link href="./2024-Spring-w7-blog-tutorial.html" rel="alternate"></link><published>2024-04-04T00:00:00+08:00</published><updated>2024-04-12T07:02:15+08:00</updated><author><name>40923131</name></author><id>tag:None,2024-04-04:./2024-Spring-w7-blog-tutorial.html</id><summary type="html">&lt;p&gt;紀錄本學期的每週進度&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;紀錄本學期的每週進度&lt;/p&gt;
 
 
 &lt;h1&gt;W7&lt;/h1&gt;
-&lt;p&gt;清明連假沒有上課&lt;/p&gt;</content><category term="w7"></category><category term="網誌編寫"></category></entry><entry><title>第六週日誌</title><link href="./2024-Spring-w6-blog-tutorial.html" rel="alternate"></link><published>2024-03-29T00:00:00+08:00</published><updated>2024-04-12T07:02:08+08:00</updated><author><name>40923131</name></author><id>tag:None,2024-03-29:./2024-Spring-w6-blog-tutorial.html</id><summary type="html">&lt;p&gt;紀錄本學期的每週進度&lt;/p&gt;
+&lt;p&gt;清明連假沒有上課&lt;/p&gt;</content><category term="w7"></category><category term="網誌編寫"></category></entry><entry><title>第七週日誌</title><link href="./2024-Spring-w7-blog-tutorial.html" rel="alternate"></link><published>2024-04-04T00:00:00+08:00</published><updated>2024-04-12T07:02:15+08:00</updated><author><name>40923131</name></author><id>tag:None,2024-04-04:./2024-Spring-w7-blog-tutorial.html</id><summary type="html">&lt;p&gt;紀錄本學期的每週進度&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;紀錄本學期的每週進度&lt;/p&gt;
+
+
+&lt;h1&gt;W7&lt;/h1&gt;
+&lt;p&gt;清明連假沒有上課&lt;/p&gt;</content><category term="w7"></category><category term="網誌編寫"></category></entry><entry><title>第七週日誌</title><link href="./2024-Spring-w7-blog-tutorial.html" rel="alternate"></link><published>2024-04-04T00:00:00+08:00</published><updated>2024-04-19T06:59:44+08:00</updated><author><name>40923131</name></author><id>tag:None,2024-04-04:./2024-Spring-w7-blog-tutorial.html</id><summary type="html">&lt;p&gt;紀錄本學期的每週進度&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;紀錄本學期的每週進度&lt;/p&gt;
+
+
+&lt;h1&gt;W8&lt;/h1&gt;</content><category term="w7"></category><category term="網誌編寫"></category></entry><entry><title>第六週日誌</title><link href="./2024-Spring-w6-blog-tutorial.html" rel="alternate"></link><published>2024-03-29T00:00:00+08:00</published><updated>2024-04-12T07:02:08+08:00</updated><author><name>40923131</name></author><id>tag:None,2024-03-29:./2024-Spring-w6-blog-tutorial.html</id><summary type="html">&lt;p&gt;紀錄本學期的每週進度&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;紀錄本學期的每週進度&lt;/p&gt;
 
 
