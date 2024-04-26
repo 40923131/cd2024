@@ -1,24 +1,13 @@
----
-Title: 第十週日誌
-Date: 2024-04-26 
-Category: w10
-Tags: 網誌編寫
-Slug: 2024-Spring-w10-blog-tutorial
-Author: 40923131
----
-
-紀錄本學期的每週進度
-
-<!-- PELICAN_END_SUMMARY -->
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統 - w10</title><link href="./" rel="alternate"></link><link href="./feeds/w10.atom.xml" rel="self"></link><id>./</id><updated>2024-04-26T05:21:00+08:00</updated><entry><title>第十週日誌</title><link href="./2024-Spring-w10-blog-tutorial.html" rel="alternate"></link><published>2024-04-26T00:00:00+08:00</published><updated>2024-04-26T05:21:00+08:00</updated><author><name>40923131</name></author><id>tag:None,2024-04-26:./2024-Spring-w10-blog-tutorial.html</id><summary type="html">&lt;p&gt;紀錄本學期的每週進度&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;紀錄本學期的每週進度&lt;/p&gt;
 
 
-# W10
-繼上周的作業
-
-各組組別使用以下對話
-分組倉儲填上https://github.com/mdecd2024/2a-midag(個別的組別)
-
-答:
+&lt;h1&gt;W10&lt;/h1&gt;
+&lt;p&gt;繼上周的作業&lt;/p&gt;
+&lt;p&gt;各組組別使用以下對話
+分組倉儲填上https://github.com/mdecd2024/2a-midag(個別的組別)&lt;/p&gt;
+&lt;p&gt;答:
 學號,GitHub 帳號,組別,cd2024 倉儲,cd2024 網站,期中報告倉儲,期中報告網站
 40923136,,,https://github.com/mdecd2024/2a-midag, , , 
 40923140,4923140,6,https://github.com/4923140/cd2024, , https://github.com/mdecd2024/2a-midag6, 
@@ -84,4 +73,4 @@ Author: 40923131
 41136103,41136103,1,https://github.com/41136103/cd2024, , https://github.com/mdecd2024/2a-midag1, 
 41136124,41136124,5,https://github.com/41136124/cd2024, , https://github.com/mdecd2024/2a-midag5, 
 41136126,,,https://github.com/mdecd2024/2a-midag, , , 
-41136131,41136131,4,https://github.com/41136131/cd2024, , https://github.com/mdecd2024/2a-midag4, 
+41136131,41136131,4,https://github.com/41136131/cd2024, , https://github.com/mdecd2024/2a-midag4, &lt;/p&gt;</content><category term="w10"></category><category term="網誌編寫"></category></entry></feed>

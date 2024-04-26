@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統 - w9</title><link href="./" rel="alternate"></link><link href="./feeds/w9.atom.xml" rel="self"></link><id>./</id><updated>2024-04-19T08:25:46+08:00</updated><entry><title>第七週日誌</title><link href="./2024-Spring-w9-blog-tutorial.html" rel="alternate"></link><published>2024-04-19T00:00:00+08:00</published><updated>2024-04-19T08:25:46+08:00</updated><author><name>40923131</name></author><id>tag:None,2024-04-19:./2024-Spring-w9-blog-tutorial.html</id><summary type="html">&lt;p&gt;紀錄本學期的每週進度&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統 - w9</title><link href="./" rel="alternate"></link><link href="./feeds/w9.atom.xml" rel="self"></link><id>./</id><updated>2024-04-26T05:12:43+08:00</updated><entry><title>第七週日誌</title><link href="./2024-Spring-w9-blog-tutorial.html" rel="alternate"></link><published>2024-04-19T00:00:00+08:00</published><updated>2024-04-26T05:12:43+08:00</updated><author><name>40923131</name></author><id>tag:None,2024-04-19:./2024-Spring-w9-blog-tutorial.html</id><summary type="html">&lt;p&gt;紀錄本學期的每週進度&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;紀錄本學期的每週進度&lt;/p&gt;
 
 
@@ -47,7 +47,10 @@ Odoo適合哪些公司使用PLM和MES功能？
 小型企業：規模縮小，對PLM和MES的需求相對簡單的公司。
 以組成或主要的企業：可以充分利用Odoo的ERP功能及其與PLM、MES的整合。
 總結來說，Odoo 的 PLM 和 MES 功能具有一定的可用性，但流程增加了改進空間。功能齊全的公司，可能需要考慮其他更專業的PLM 和MES 解決方案。&lt;/p&gt;
-&lt;p&gt;學號,GitHub 帳號,組別,cd2024 倉儲,cd2024 網站,期中報告倉儲,期中報告網站
+&lt;p&gt;問:
+你幫我把每個人的cd2024都填上https://github.com/(此部分是每個人的github帳號)/cd2024&lt;/p&gt;
+&lt;p&gt;google AI答:
+學號,GitHub 帳號,組別,cd2024 倉儲,cd2024 網站,期中報告倉儲,期中報告網站
 40923136,,, , , , 
 40923140,4923140,6,https://github.com/4923140/cd2024, , , 
 40923149,40923149r,6,https://github.com/40923149r/cd2024, , , 
@@ -63,10 +66,8 @@ Odoo適合哪些公司使用PLM和MES功能？
 41123201,Peichen1128,4,https://github.com/Peichen1128/cd2024, , , 
 41123202,Yunjia822,5,https://github.com/Yunjia822/cd2024, , , 
 41123203,S1u2a3n4,5,https://github.com/S1u2a3n4/cd2024, , , 
-41123204,"warsplte
-",1,https://github.com/warsplte/cd2024, , , 
-41123205,"41123205WANG-ZE-XIANG
-",7,https://github.com/41123205WANG-ZE-XIANG/cd2024, , , 
+41123204,"warsplte",1,https://github.com/warsplte/cd2024, , , 
+41123205,"41123205WANG-ZE-XIANG",7,https://github.com/41123205WANG-ZE-XIANG/cd2024, , , 
 41123206,kaoruSam,,https://github.com/kaoruSam/cd2024, , , 
 41123207,41123207Andy,4,https://github.com/41123207Andy/cd2024, , , 
 41123208,jas41123208,1,https://github.com/jas41123208/cd2024, , , 
